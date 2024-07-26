@@ -31,3 +31,15 @@ https://github.com/jerife
 - **다층 퍼셉트론 분류기 만들기 (MNIST)**
 - **과적합(Overfitting)을 막는 방법들**
 - **기울기 소실(Gradient Vanishing)과 폭주(Exploding)**
+
+
+# PyTorch_DeepLearning_Basic_RNN.ipynb 구성
+
+- **순환 신경망**
+- **파이썬으로 RNN 구현하기**
+- **파이토치의 nn.RNN()**
+- **깊은 순환 신경망 (DRNN)**
+- **양방향 순환 신경망**
+- **Vanilla RNN의 한계**
+- **LSTM**
+- **문자 단위 RNN(Char RNN)**
